@@ -1,0 +1,8 @@
+<Envelope>
+	<Body>
+		<Login>
+			<USERNAME>var_username</USERNAME>
+			<PASSWORD>var_password</PASSWORD>
+		</Login>
+	</Body>
+</Envelope>

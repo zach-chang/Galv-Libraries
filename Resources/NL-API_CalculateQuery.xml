@@ -1,0 +1,8 @@
+<Envelope>
+	<Body>
+		<CalculateQuery>
+			<QUERY_ID>queryid</QUERY_ID>
+			<EMAIL>dcohen@galvanized.com</EMAIL>
+		</CalculateQuery>
+	</Body>
+</Envelope>

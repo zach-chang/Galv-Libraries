@@ -1,0 +1,29 @@
+<Envelope>
+	<Body>
+		<SaveMailing>
+			<Header>
+				<MailingName><![CDATA[var_mailing_name]]></MailingName>
+				<Subject><![CDATA[var_subject_line]]></Subject>
+				<ListID>var_list_id</ListID>
+				<FromName><![CDATA[var_from_name]]></FromName>
+				<FromAddress><![CDATA[var_from_address]]></FromAddress>
+				<ReplyTo><![CDATA[var_reply_to]]></ReplyTo>
+				<Visibility>0</Visibility>
+				<FolderPath></FolderPath>
+				<Encoding>6</Encoding>
+				<TrackingLevel>4</TrackingLevel>
+			</Header>
+			<MessageBodies>
+				<HTMLBody>
+					<![CDATA[
+						var_html_body
+					]]>
+				</HTMLBody>
+			</MessageBodies>
+			<ClickThroughs></ClickThroughs>
+			<ForwardToFriend>
+				<ForwardType>0</ForwardType>
+			</ForwardToFriend>
+		</SaveMailing>
+	</Body>
+</Envelope>

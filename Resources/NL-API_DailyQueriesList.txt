@@ -1,0 +1,7 @@
+<weekdaySendTime>12:35:00 PM<weekdaySendTime>
+<weekendSendTime>11:35:00 AM<weekendSendTime>
+<queries>
+<query id="send-daily: group2daily, group3daily">2, 5244244, 5293506</query>
+<query id="send-weekend: completeActive, group3daily">2, 4050146, 5293506</query>
+<query id="send-weekly: group2weekly, group3weekly">5276933, 5277309</query>
+</queries>
