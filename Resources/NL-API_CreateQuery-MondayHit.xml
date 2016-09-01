@@ -1,0 +1,13 @@
+<Envelope>
+	<Body>
+		<CreateQuery>
+			<QUERY_NAME>var_query_name</QUERY_NAME>
+			<PARENT_LIST_ID>2985177</PARENT_LIST_ID>
+			<VISIBILITY>0</VISIBILITY>
+			<PARENT_FOLDER_ID>5846139</PARENT_FOLDER_ID>
+			<BEHAVIOR>
+				
+			</BEHAVIOR>
+		</CreateQuery>
+	</Body>
+</Envelope>

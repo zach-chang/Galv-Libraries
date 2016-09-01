@@ -1,0 +1,9 @@
+<Envelope>
+	<Body>
+		<GetLists>
+			<VISIBILITY>1</VISIBILITY>
+			<LIST_TYPE>1</LIST_TYPE>
+			<INCLUDE_ALL_LISTS>True</INCLUDE_ALL_LISTS>
+		</GetLists>
+	</Body>
+</Envelope>

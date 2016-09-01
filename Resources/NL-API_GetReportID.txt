@@ -1,9 +1,0 @@
-<Envelope><Body>
-<GetSentMailingsForUser>
-<DATE_START>01/01/2006 00:00:00</DATE_START>
-<DATE_END>03/09/2006 23:59:59</DATE_END>
-<OPTIONALUSER>dcohen@galvanized.com</OPTIONALUSER>
-<SENDING/>
-<EXCLUDE_TEST_MAILINGS/>
-</GetSentMailingsForUser>
-</Body></Envelope>

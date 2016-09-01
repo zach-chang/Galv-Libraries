@@ -1,0 +1,7 @@
+<Envelope>
+	<Body>
+		<ExportMailingTemplate>
+			<TEMPLATE_ID>var_template_id</TEMPLATE_ID>
+		</ExportMailingTemplate>
+	</Body>
+</Envelope>

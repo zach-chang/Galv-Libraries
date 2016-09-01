@@ -1,0 +1,1 @@
+cd Desktop;curl -u var_username:var_password 'ftp://transfer3.silverpop.com/var_export_directory' -o ~/Desktop/export.zip

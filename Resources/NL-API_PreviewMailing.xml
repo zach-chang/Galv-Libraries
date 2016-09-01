@@ -1,0 +1,7 @@
+<Envelope>
+	<Body>
+		<PreviewMailing>
+			<MailingId>var_mailing_id</MailingId>
+		</PreviewMailing>
+	</Body>
+</Envelope>

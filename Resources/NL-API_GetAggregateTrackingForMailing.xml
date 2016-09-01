@@ -1,0 +1,8 @@
+<Envelope>
+	<Body>
+		<GetAggregateTrackingForMailing>
+			<MAILING_ID>var_mailing_id</MAILING_ID>
+			<REPORT_ID>var_report_id</REPORT_ID>
+		</GetAggregateTrackingForMailing>
+	</Body>
+</Envelope>

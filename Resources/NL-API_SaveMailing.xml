@@ -8,16 +8,14 @@
 				<FromName><![CDATA[var_from_name]]></FromName>
 				<FromAddress><![CDATA[var_from_address]]></FromAddress>
 				<ReplyTo><![CDATA[var_reply_to]]></ReplyTo>
-				<Visibility>0</Visibility>
-				<FolderPath></FolderPath>
+				<Visibility>1</Visibility>
+				<FolderPath>var_folder_path</FolderPath>
 				<Encoding>6</Encoding>
 				<TrackingLevel>4</TrackingLevel>
 			</Header>
 			<MessageBodies>
 				<HTMLBody>
-					<![CDATA[
-						var_html_body
-					]]>
+					<![CDATA[var_html_body]]>
 				</HTMLBody>
 			</MessageBodies>
 			<ClickThroughs></ClickThroughs>
