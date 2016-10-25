@@ -2,7 +2,7 @@
 	<Body>
 		<GetReportIdByDate>
 			<MAILING_ID>var_mailing_id</MAILING_ID>
-			<DATE_START>01/01/2011 00:00:00</DATE_START>
+			<DATE_START>08/31/2016 00:00:00</DATE_START>
 			<DATE_END>var_date_end 23:59:59</DATE_END>
 		</GetReportIdByDate>
 	</Body>
