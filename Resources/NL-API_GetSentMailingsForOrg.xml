@@ -1,0 +1,10 @@
+<Envelope>
+	<Body>
+		<GetSentMailingsForOrg>
+			<DATE_START>var_date_start 00:00:00</DATE_START>
+			<DATE_END>var_date_end 23:59:59</DATE_END>
+			<SHARED/>
+			<SENT/>
+		</GetSentMailingsForOrg>
+	</Body>
+</Envelope>
